@@ -15,7 +15,6 @@ import mvc_crud.dto.Student;
 
 @Component
 public class StudentService {
-
 	@Autowired
 	Student student;
 	@Autowired
